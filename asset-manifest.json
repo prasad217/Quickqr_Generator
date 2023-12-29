@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quickqr_Generator/static/css/main.f855e6bc.css",
+    "main.js": "/Quickqr_Generator/static/js/main.71083b38.js",
+    "static/js/787.bf5423a1.chunk.js": "/Quickqr_Generator/static/js/787.bf5423a1.chunk.js",
+    "index.html": "/Quickqr_Generator/index.html",
+    "main.f855e6bc.css.map": "/Quickqr_Generator/static/css/main.f855e6bc.css.map",
+    "main.71083b38.js.map": "/Quickqr_Generator/static/js/main.71083b38.js.map",
+    "787.bf5423a1.chunk.js.map": "/Quickqr_Generator/static/js/787.bf5423a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.71083b38.js"
+  ]
+}
